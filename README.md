@@ -1,2 +1,1 @@
-# littletiers
-little tiers
+MIT Heroku back end deployment example
